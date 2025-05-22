@@ -1,0 +1,7 @@
+cloud-sql-python-connector==1.10.0
+SQLAlchemy==2.0.31
+SQLAlchemy[mypy]==2.0.31
+pg8000==1.31.2
+Flask==3.0.3
+gunicorn==22.0.0
+psycopg2-binary==2.9.9
