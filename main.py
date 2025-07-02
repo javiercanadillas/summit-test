@@ -102,4 +102,4 @@ if __name__ == '__main__':
     # create_tables()
     # print("Table creation process finished.")
 
-    app.run(host='0.0.0.0', port=8080, debug=True)
+    app.run(host='0.0.0.0', port=8080, debug=False)  # Set debug=False for production or make it configurable
